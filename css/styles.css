@@ -1,0 +1,15 @@
+.black-background {
+    background-color: black;
+}
+
+.white-font {
+    color: white;
+}
+
+#darkswitch {
+    background-color: black;
+    display: none;
+}
+
+
+/* #lightswitch {} */
